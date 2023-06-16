@@ -1,1 +1,1 @@
-print('hello, world!')
+while True: print(str(eval(input('enter value -> ')))+'\n')
